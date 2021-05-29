@@ -1,1 +1,3 @@
-Þetta er heimasíða KFB15 ehf
+<?php
+
+echo "Þetta er heimasíða KFB15 ehf";
